@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Edisco"
+name = "edisco"
 version = "0.1.0"
